@@ -1,0 +1,97 @@
+.details{
+    height: 500px;
+    background: url(/image/main-image.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: block;
+    text-align: center;
+}
+.nav-bar{
+    display: flex;
+    max-width: 50%;
+    padding-top: 70px;
+    margin: 0 auto;
+}
+.nav-bar button{
+    flex: 1;
+    margin: 0 auto;
+    text-align: center;
+    height: 35px;
+    font-weight: bold;
+    background: linear-gradient(#999999,#676767);
+    border-color: #99999952;
+    border-style: double;
+    border-radius: 2px;
+}
+.apple-logo img{
+    height: 25px;
+}
+.text{
+    margin: 0 auto;
+    max-width: 50%;
+    color: white;
+}
+.first-text{
+    font-size: 35px;
+}
+.first-text h3{
+    padding-top: 5px;
+    text-align: center;
+}
+h3{
+    display: block;
+}
+.end-text{
+    font-size: 18px;
+    padding-top: 5px;
+    text-align: center;
+}
+.end-text img{
+    vertical-align: middle;
+    padding-left: 5px;
+}
+.content-images{
+    display: flex;
+    vertical-align: baseline;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.content-images img{
+    width: 24.8%;
+}
+.footer{
+    padding-bottom: 30px;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.main-footer{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    color: gray;
+}
+.footer a{
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+    border-left: 1px solid gray;
+    color: blue;
+}
+.main-footer .no-padding{
+    border-left: none;
+}
+.main-footer img{
+    height: 20px;
+    vertical-align: middle;
+}
+.last-text{
+    padding-top: 5px;
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+}
