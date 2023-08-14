@@ -1,7 +1,4 @@
-<h1 align=center> **FRONTEND DEVELOPMENT TRAINING** </h1>
-
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![dependencies Status](https://david-dm.org/dwyl/esta/status.svg)](https://david-dm.org/dwyl/esta)
+# Adver Project 
 
 
 This is a list of different project designed during my frontend development training 
@@ -25,7 +22,7 @@ This is a list of different project designed during my frontend development trai
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/macbright/codeEdus-training.git
+$ git clone https://github.com/shedrach01/shedrack01
 ```
 
 > cd into the directory
@@ -39,18 +36,15 @@ $ cd codeEdus-training
 
 ## Maintainers 
 
-👤  **Bright Okike**
+👤  **Shedrach iroanya**
 
-- Github: [@macbright](https://github.com/macbright)
-- LinkedIn: [@bokike](https://www.linkedin.com/in/bokike/)
-- Twitter: [@b_okike](https://twitter.com/b_okike)
+- Github: [@shedrach01](https://github.com/shedrach01)
 
 
-## Future Features
-1. add additional calculating ability that performs more complex Math functions. 
-
+## Future Features 
+1. add aditional details 
 
 
 ## License
 
-Bright okike
+Shedrach iroanya 
